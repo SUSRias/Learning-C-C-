@@ -1,11 +1,16 @@
 #include <iostream>
 
-Class Albert(){
+class Albert{
 
 
+Albert ( ){
 
+std::cout << "aljdhnlad";
+
+
+}
 
 
   
-}
-}
+};
+
